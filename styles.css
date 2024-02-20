@@ -20,7 +20,7 @@ footer {
   background-image: url(images/tom1.png);
 }
 
-.u {
+.v {
   background-image: url(images/tom2.png);
 }
 
@@ -37,11 +37,11 @@ footer {
 }
 
 .o {
-  background-image: url(images/crash.png);
+  background-image: url(images/kick.png);
 }
 
 .u {
-  background-image: url(images/kick.png);
+  background-image: url(images/crash.png);
 }
 
 .set {
